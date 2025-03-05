@@ -150,12 +150,19 @@ onMounted(() => {
 </script>
 
 <style scoped>
+.section {
+  background: url('https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/wallpapersden.com_new-warframe-2023_1920x960%20(3).jpg') no-repeat center center;
+  background-size: cover;
+  padding: 50px 20px; /* Adjust padding as needed */
+  color: white; /* Change text color for contrast */
+}
+
 .guestbook-form {
   margin-bottom: 2rem;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0);
   padding: 1.5rem;
   border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0);
 }
 
 .guestbook-form h3 {
@@ -198,7 +205,7 @@ onMounted(() => {
 .loading, .no-comments {
   text-align: center;
   padding: 2rem;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.84);
   border-radius: 8px;
 }
 
@@ -211,7 +218,7 @@ onMounted(() => {
   background-color: rgba(255, 255, 255, 0.8);
   padding: 1.5rem;
   border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.06);
 }
 
 .comment-header {

@@ -160,9 +160,17 @@ const images = ref([
     name: "Old Moon",
     url: "https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/b4aa4e2c-3f22-45d1-b970-504d586796f8.jpg"
   },
-    {
-    name: "Old Moon",
-    url: "https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/b4aa4e2c-3f22-45d1-b970-504d586796f8.jpg"
+  {
+    name: "Rawr",
+    url: "https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/c7f035a9-1070-44b2-b2b9-29dc8496ecbd.jpg"
+  },
+  {
+    name: "Pizza Eater",
+    url: "https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/984e4eac-450f-438a-bf24-418309b20577.jpg"
+  },
+  {
+    name: "Anniv",
+    url: "https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/984e4eac-450f-438a-bf24-418309b20577.jpg"
   }
 ]);
 
