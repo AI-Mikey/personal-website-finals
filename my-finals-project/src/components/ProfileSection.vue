@@ -150,15 +150,19 @@ const images = ref([
   },
   {
     name: "Bubu and Dudu",
-    url: "https://github.com/AI-Mikey/webprogSS231-personal-website/blob/main/Image/image_2024-12-01_220542495.png?raw=true"
+    url: "https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/7150462597d8b020a246eb62d5d4951c.jpg"
   },
   {
     name: "Together",
-    url: "https://github.com/AI-Mikey/webprogSS231-personal-website/blob/main/Image/image_2024-12-01_220709048.png?raw=true"
+    url: "https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/e3e7ac2b-5d6c-4347-a0e0-a7eff9c420c9.jpg"
   },
   {
-    name: "Special Moment",
-    url: "https://github.com/AI-Mikey/webprogSS231-personal-website/blob/main/Image/image_2024-12-01_221323296.png?raw=true"
+    name: "Old Moon",
+    url: "https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/b4aa4e2c-3f22-45d1-b970-504d586796f8.jpg"
+  },
+    {
+    name: "Old Moon",
+    url: "https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/b4aa4e2c-3f22-45d1-b970-504d586796f8.jpg"
   }
 ]);
 
