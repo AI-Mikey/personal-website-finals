@@ -1,0 +1,9 @@
+/* Additional global styles can be added here */
+html {
+    scroll-behavior: smooth;
+  }
+  
+  /* For FontAwesome icons */
+  .fas, .fab {
+    display: inline-block;
+  }
