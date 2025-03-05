@@ -170,7 +170,7 @@ const images = ref([
   },
   {
     name: "Anniv",
-    url: "https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/984e4eac-450f-438a-bf24-418309b20577.jpg"
+    url: "https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/461485107_2155644828165077_6526611880646859503_n.jpg"
   }
 ]);
 
