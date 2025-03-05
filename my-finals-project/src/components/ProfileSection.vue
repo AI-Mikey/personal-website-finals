@@ -126,7 +126,7 @@ import { ref } from 'vue';
 const images = ref([
   {
     name: "Warframe Image 2023",
-    url: "my-finals-project/img/db7e90aa4e7b882bd39e50ffa30ca2db(1)"
+    url: "https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/db7e90aa4e7b882bd39e50ffa30ca2db%20(1).jpg"
   },
   {
     name: "Instax Picture",
