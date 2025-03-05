@@ -209,7 +209,7 @@ onMounted(() => {
 .loading, .no-comments {
   text-align: center;
   padding: 2rem;
-  background-color: rgba(255, 255, 255, 0.06);
+  background-color: rgba(255, 255, 255, 0.03);
   border-radius: 8px;
 }
 
@@ -219,10 +219,10 @@ onMounted(() => {
 }
 
 .comment-card {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.11);
   padding: 1.5rem;
   border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0);
 }
 
 .comment-header {
@@ -239,7 +239,7 @@ onMounted(() => {
 
 .comment-date {
   font-size: 0.8rem;
-  color: var(--light-text);
+  color: white;
 }
 
 .comment-message {
