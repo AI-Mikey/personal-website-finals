@@ -54,13 +54,18 @@ const handleMobileNavClick = (sectionId) => {
 </script>
 
 <style scoped>
+.section {
+  background: url('https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/wallpapersden.com_new-warframe-2023_1920x960%20(3).jpg') no-repeat center center;
+  background-size: cover;
+  padding: 50px 20px; /* Adjust padding as needed */
+  color: white; /* Change text color for contrast */
+}
+
 .header {
-  background: linear-gradient(135deg, var(--primary), var(--secondary));
-  color: white;
-  position: sticky;
-  top: 0;
-  z-index: 100;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  background: url('https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/pngtree-japanese-style-wave-banner-background-vector-material-picture-image_1191544.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 20px 20px; /* Adjust padding as needed */
+  color: white; /* Change text color for contrast */
 }
 
 .header-container {
@@ -85,7 +90,7 @@ const handleMobileNavClick = (sectionId) => {
 }
 
 .nav-list a {
-  color: white;
+  color: black;
   text-decoration: none;
   font-weight: 500;
   transition: opacity 0.3s ease;
