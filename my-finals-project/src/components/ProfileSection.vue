@@ -4,7 +4,7 @@
       <h2 class="section-title">About Me</h2>
       <div class="about-content">
         <div class="about-image">
-          <img src="https://github.com/AI-Mikey/webprogSS231-personal-website/blob/main/image_2024-12-01_214105505.png?raw=true" alt="Michael and Girlfriend" />
+          <img src="https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/2f310984-267c-4f21-b724-371132493d7f.jpg" alt="Michael and Girlfriend" />
         </div>
         <div class="about-text">
           <p>My name is <strong>Michael M. Orenze</strong>, and I'm 21 years old. I live in Bangkal, Makati. My favorite games right now are Warframe and Stardew Valley.</p>
@@ -146,7 +146,7 @@ const images = ref([
   },
   {
     name: "Me and Girlfriend",
-    url: "https://github.com/AI-Mikey/webprogSS231-personal-website/blob/main/image_2024-12-01_214105505.png?raw=true"
+    url: "https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/77c85b16-d8b6-4689-84bf-8dedb69cfd8f.jpg"
   },
   {
     name: "Bubu and Dudu",
