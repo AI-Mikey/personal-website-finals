@@ -48,7 +48,7 @@
           </div>
           <div class="education-details">
             <h3>IT Experience</h3>
-            <p>Python Project, Java Assignments, and a search engine project that plants a tree for every 50 searches.</p>
+            <p>Python Project(and a search engine project that plants a tree for every 50 searches) , Java Assignments, and this Website.</p>
           </div>
         </div>
       </div>
@@ -198,6 +198,11 @@ const prevImage = () => {
 </script>
 
 <style scoped>
+.section-title {
+  margin-bottom: 1rem;
+  color: black;
+}
+
 .about-content {
   display: flex;
   gap: 2rem;

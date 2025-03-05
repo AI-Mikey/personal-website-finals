@@ -156,6 +156,10 @@ onMounted(() => {
   padding: 50px 20px; /* Adjust padding as needed */
   color: white; /* Change text color for contrast */
 }
+.section-title {
+  margin-bottom: 1rem;
+  color: white;
+}
 
 .guestbook-form {
   margin-bottom: 2rem;
@@ -167,7 +171,7 @@ onMounted(() => {
 
 .guestbook-form h3 {
   margin-bottom: 1rem;
-  color: var(--primary);
+  color: white;
 }
 
 .form-group {
@@ -199,13 +203,13 @@ onMounted(() => {
 
 .comments-section h3 {
   margin-bottom: 1rem;
-  color: var(--primary);
+  color: white;
 }
 
 .loading, .no-comments {
   text-align: center;
   padding: 2rem;
-  background-color: rgba(255, 255, 255, 0.84);
+  background-color: rgba(255, 255, 255, 0.06);
   border-radius: 8px;
 }
 
@@ -230,7 +234,7 @@ onMounted(() => {
 
 .comment-header h4 {
   margin: 0;
-  color: var(--text);
+  color: white;
 }
 
 .comment-date {

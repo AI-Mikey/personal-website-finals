@@ -37,10 +37,10 @@
 
 <style scoped>
 .footer {
-  background: linear-gradient(135deg, var(--primary), var(--secondary));
-  color: white;
-  padding: 2rem 0 1rem;
-  margin-top: 2rem;
+  background: url('https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/7efcadf4-785f-4758-bd7e-f45832a3746f-profile_banner-480.png') no-repeat center center;
+  background-size: cover;
+  padding: 20px 30px; /* Adjust padding as needed */
+  color: white; /* Change text color for contrast */
 }
 
 .footer-container {
