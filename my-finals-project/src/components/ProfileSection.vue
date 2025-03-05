@@ -48,7 +48,7 @@
           </div>
           <div class="education-details">
             <h3>IT Experience</h3>
-            <p>Python Project(and a search engine project that plants a tree for every 50 searches) , Java Assignments, and this Website.</p>
+            <p>Python Project(a search engine project that plants a tree for every 50 searches) , Java Assignments, and this Website.</p>
           </div>
         </div>
       </div>
