@@ -62,9 +62,10 @@ const handleMobileNavClick = (sectionId) => {
 }
 
 .header {
-  background: url('https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/pngtree-japanese-style-wave-banner-background-vector-material-picture-image_1191544.jpg') no-repeat center center;
-  background-size: cover;
-  padding: 20px 20px; /* Adjust padding as needed */
+  background: url('https://github.com/AI-Mikey/personal-website-finals/raw/main/my-finals-project/img/images.png') no-repeat center center;
+  background-size: center;
+  background-position: left;
+  padding: 20px 30px; /* Adjust padding as needed */
   color: white; /* Change text color for contrast */
 }
 
@@ -90,7 +91,7 @@ const handleMobileNavClick = (sectionId) => {
 }
 
 .nav-list a {
-  color: black;
+  color: white;
   text-decoration: none;
   font-weight: 500;
   transition: opacity 0.3s ease;
